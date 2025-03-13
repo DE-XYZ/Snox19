@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="140" src="https://avatars.githubusercontent.com/u/198287651?v=4"  />
+
+###
+
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Javascript<br>🎯 Goals: Get an Software Engineer Job</p>
 
 ###
