@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="120" src="https://avatars.githubusercontent.com/u/198287651?v=4"  />
+<img align="right" height="110" src="https://avatars.githubusercontent.com/u/198287651?v=4"  />
 
 ###
 
